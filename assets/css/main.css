@@ -903,7 +903,20 @@ A:visited {
     .up-font-size{
         font-size: 12px;
     }
-
+    .form-card {
+        width: 200px;
+        height: 600px;
+        overflow-x: hidden;
+        overflow-y: scroll;
+    }
+    .text-multi{
+        list-style-type:none;
+        font-size: 12px;
+        padding: 0px 0px 0px 0px;
+    }
+    .t-multi3 {
+        padding: 0px 0px 0px 0px;
+    }
     
   }
 
@@ -986,6 +999,20 @@ A:visited {
     .box-main-icon{
         display: flex;
     } 
+    .form-card {
+        width: 200px;
+        height: 600px;
+        overflow-x: hidden;
+        overflow-y: scroll;
+    }
+    .text-multi{
+        list-style-type:none;
+        font-size: 12px;
+        padding: 0px 0px 0px 0px;
+    }
+    .t-multi3 {
+        padding: 0px 0px 0px 0px;
+    }
 }
 
 
@@ -1056,7 +1083,35 @@ A:visited {
     .icon-main{
         margin-top: 5px;
     }
+    .form-card {
+        width: 200px;
+        height: 600px;
+        overflow-x: hidden;
+        overflow-y: scroll;
+    }
+    .text-multi{
+        list-style-type:none;
+        font-size: 12px;
+        padding: 0px 0px 0px 0px;
+    }
+    .t-multi3 {
+        padding: 0px 0px 0px 0px;
+    }
   }
+      .form-card {
+        width: 200px;
+        height: 600px;
+        overflow-x: hidden;
+        overflow-y: scroll;
+    }
+    .text-multi{
+        list-style-type:none;
+        font-size: 12px;
+        padding: 0px 0px 0px 0px;
+    }
+    .t-multi3 {
+        padding: 0px 0px 0px 0px;
+    }
 
   .darkMome{
     background-color:#000;
