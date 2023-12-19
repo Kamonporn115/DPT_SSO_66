@@ -49,6 +49,7 @@
 #msform fieldset .form-card {
     text-align: left;
     color: #9E9E9E;
+    
 }
 
 #msform input, #msform textarea {
@@ -243,4 +244,22 @@ select.list-dt:focus {
 .fit-image{
     width: 100%;
     object-fit: cover;
+}
+.text-multi{
+    list-style-type:none;
+    font-size: 12px;
+    padding: 0px 0px 0px 0px;
+}
+.t-multi3 {
+    padding: 0px 0px 0px 0px;
+}
+.text-approve{
+    font-size: 14px;
+    margin-top: 5px ;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.t-approve{
+    padding-left:0px ;
 }
